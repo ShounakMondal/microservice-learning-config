@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Eazy Banks Cards related APIS"
+  contactDetails:
+    name: "John Cards - Developer"
+    email: "johnCards@eazybank.com"
+  onCallSupport:
+    - (555) 123-1234
+    - (555) 234-1345

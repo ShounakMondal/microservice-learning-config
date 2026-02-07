@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Eazy Banks Cards QA related APIS"
+  contactDetails:
+    name: "John QA Cards - QA Lead"
+    email: "johnQACards@eazybank.com"
+  onCallSupport:
+    - (555) 999-1234
+    - (555) 999-1345

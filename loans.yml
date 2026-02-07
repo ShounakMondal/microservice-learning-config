@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Eazy Banks Loans related APIS"
+  contactDetails:
+    name: "John Loans - Developer"
+    email: "johnLoans@eazybank.com"
+  onCallSupport:
+    - (555) 000-1234
+    - (555) 000-1345

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Eazy Banks Accounts related  QA APIS"
+  contactDetails:
+    name: "Xyz Abcd - QA Lead"
+    email: "xyzabcd@eazybank.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371

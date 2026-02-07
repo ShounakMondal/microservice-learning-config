@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Eazy Banks Cards PROD related APIS"
+  contactDetails:
+    name: "John PROD Cards - Product Owner"
+    email: "johnPRODCards@eazybank.com"
+  onCallSupport:
+    - (555) 999-1234
+    - (555) 999-1345
