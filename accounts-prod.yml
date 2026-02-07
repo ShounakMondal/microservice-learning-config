@@ -1,11 +1,11 @@
 build:
-  version: "1.0"
+  version: "1.1"
 
 accounts:
   message: "Welcome to Eazy Banks Accounts related  PROD APIS"
   contactDetails:
     name: "Prod Head - Product Owner"
-    email: "prodHead@eazybank.com"
+    email: "{cipher}9f305d550a6dff3f2b47618e7fc418ff8e8feb799f560c7eb3faf850b6dcd1870881dd92e2c6f9033c37a15d49b41c14"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
