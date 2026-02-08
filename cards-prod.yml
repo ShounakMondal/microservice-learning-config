@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Eazy Banks Cards PROD related APIS"
+  message: "Welcome to Eazy Banks Cards production related APIS"
   contactDetails:
     name: "John PROD Cards - Product Owner"
     email: "johnPRODCards@eazybank.com"
